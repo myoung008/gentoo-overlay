@@ -1,0 +1,12 @@
+diff --git a/cmake/Modules/FindIrrlicht.cmake b/cmake/Modules/FindIrrlicht.cmake
+index 8dda157..5f42f35 100644
+--- a/cmake/Modules/FindIrrlicht.cmake
++++ b/cmake/Modules/FindIrrlicht.cmake
+@@ -48,6 +48,7 @@ else()
+ 		PATHS
+ 		/usr/local/lib
+ 		/usr/lib
++		/usr/lib64
+ 	)
+ endif()
+ 

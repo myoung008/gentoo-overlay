@@ -1,0 +1,10 @@
+cross-arm-armv6j-linux-musl
+cross-armv6j-linux-musl
+cross-armv6j-hardfloat-linux-musl
+cross-armv6j-hardfloat-linux-gnueabi
+cross-armv7a-hardfloat-linux-gnueabi
+cross-armv6j-hardfloat-linux-musleabi
+cross-i586-pc-linux-musleabi
+cross-x86_64-pc-linux-musleabi
+cross-armv6j-pc-linux-musleabi
+cross-armv6j-unknown-linux-musleabi
