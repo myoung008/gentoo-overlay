@@ -8,3 +8,4 @@ cross-i586-pc-linux-musleabi
 cross-x86_64-pc-linux-musleabi
 cross-armv6j-pc-linux-musleabi
 cross-armv6j-unknown-linux-musleabi
+cross-armv7a-vfp4hard-linux-gnueabi
